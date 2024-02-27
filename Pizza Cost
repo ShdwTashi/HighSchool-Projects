@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+    double laborCost = 0.75;
+    double rentCost = 1.00;
+    double materialsCost = 0.05;
+
+    Scanner input = new Scanner(System.in);
+
+    System.out.print("Enter the diameter of the Pizza in inches?: "); 
+    int diameter = input.nextInt();
+
+    materialsCost = materialsCost * diameter * diameter + laborCost + rentCost;
+
+    System.out.println("The Cost of making this Pizza is: $" + materialsCost); 
+  }
+}
