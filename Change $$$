@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+    Scanner input = new Scanner(System.in);
+    System.out.print("Enter the Change in Cents: ");
+int Cents = input.nextInt();
+    int Quarter = Cents / 25;
+    int Dime = (Cents % 25) / 10;
+    int Nickle = ((Cents % 25) % 10) / 5;
+    int Penny = (((Cents % 25) % 10) % 5) / 1;
+    System.out.println("The minimum number of coins is: " + Cents);
+    System.out.println("Quarters: " + Quarter);
+    System.out.println("Dimes: " + Dime);
+    System.out.println("Nickles: " + Nickle);
+    System.out.println("Pennies: " + Penny);
+
+  }
+}
