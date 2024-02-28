@@ -1,0 +1,21 @@
+import java.util.Scanner;
+import java.util.Random;
+
+public class Main {
+  public static void main(String[] args) {
+    Scanner input = new Scanner(System.in);
+    Random rand = new Random();
+    int computerNumber = rand.nextInt(20) + 1;
+    int playerNumber;
+
+    System.out.print("Enter a number between 1 and 20: ");
+    playerNumber = input.nextInt();
+    System.out.println("Computer's Number: " + computerNumber); // now showing the computer's number
+
+    if (playerNumber == computerNumber) {
+      System.out.println("You Won!");
+    } else {
+      System.out.println("Better luck next time.");
+    }
+  }
+}
