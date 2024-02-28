@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+    Scanner input = new Scanner(System.in);
+
+    System.out.print("Enter the number of copies to be printed: "); 
+    int numPrints = input.nextInt();
+
+    if (numPrints <= 99) {
+      System.out.println("Price per copy is: $0.30");
+    } else if (numPrints <= 499) {
+      System.out.println("Price per copy is: $0.28");
+    } else if (numPrints <= 749) {
+      System.out.println("Price per copy is: $0.27");
+    } else if (numPrints <= 1000) {
+      System.out.println("Price per copy is: $0.26");
+    } else {
+      System.out.println("Price per copy is: $0.25");
+    }
+  }
+}
