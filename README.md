@@ -1,4 +1,6 @@
 # Projects
+> [!NOTE]
+> Every Single Project Is Written In Java.
 ## Introduction
 In high school, I got to dive into different projects that introduced me to Java programming. These experiences weren't just about learning syntax; they showed me how Java works in real-world scenarios. As I tinkered with code, I realized how creative and impactful coding can be. It's amazing to think about the endless possibilities technology holds for the future. These moments sparked my love for coding and gave me a glimpse of the exciting journey ahead.
 
