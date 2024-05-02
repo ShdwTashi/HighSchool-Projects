@@ -6,16 +6,16 @@ In high school, I got to dive into different projects that introduced me to Java
 
 **This was just the Beginning.**
 ## Contributions
-**Eliezer Gomez Rivera** (Me)
+**Shadow Takashi Shirogane** (Me)
 
 **Tomi Quach** (Best Friend)
 
 **ChatGPT** (AI)
 
 ## Acknowledgement
-**Benjamin Albayero** (Brother)
+**Zero Sake** (Brother)
 
-**Zachary Vincent** (Best Friend)
+**Zay** (Best Friend)
 
 **Drew McGinnis** (Best Friend)
 
@@ -23,7 +23,7 @@ In high school, I got to dive into different projects that introduced me to Java
 
 **Mr.Kendall** (High School Teacher)
 
-I would like to express my deepest gratitude to my teacher and best friends for their support, encouragement, and inspiration. Their unwavering belief in me and their constant encouragement have shaped me into the person I am today – someone who is passionate about coding and aspires to pursue a career in hacking. I am forever grateful for their friendship, guidance, and belief in my potential.
+I would like to express my deepest gratitude to my teacher and best friends for their support, encouragement, and inspiration. Their unwavering belief in me and their constant encouragement have shaped me into the person I am today – someone who is passionate about coding and aspires to pursue a career in Programming. I am forever grateful for their friendship, guidance, and belief in my potential.
 
 ## Reference
 > [!TIP]
